@@ -1,2 +1,2 @@
 # Notes
-My Notes app, python
+My Notes, python app
